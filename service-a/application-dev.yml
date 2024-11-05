@@ -1,2 +1,3 @@
 service:
- name: test service for dev-A
+ name: 나은비
+ student_number: 202136324
